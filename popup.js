@@ -268,7 +268,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const response = await fetch(url, {
         headers: {
-          "User-Agent": "Azanify Chrome Extension (Prayer Time Reminder)",
+          "User-Agent": "Adzanify Chrome Extension (Prayer Time Reminder)",
         },
       });
 

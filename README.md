@@ -1,4 +1,4 @@
-# Azanify - Beautiful Prayer Time Reminder
+# Adzanify - Beautiful Prayer Time Reminder
 
 A beautiful, modern Google Chrome extension that reminds you of prayer times with authentic Adzan sounds. Designed with a premium Islamic aesthetic and accurate location-based timings.
 

@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Azanify",
+  "name": "Adzanify",
   "version": "1.0",
   "description": "Beautiful prayer time reminders with azan notifications based on your location.",
   "permissions": [
